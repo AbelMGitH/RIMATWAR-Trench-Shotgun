@@ -35,6 +35,7 @@
 		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
 		<li>VanillaExpanded.VWE</li>		
 		<li>CETeam.CombatExtendedGuns</li>
-		<li>CETeam.CombatExtendedArmory</li>		
+		<li>CETeam.CombatExtendedArmory</li>
+		<li>issaczhuang.muzzleflash</li>	
 	</loadAfter>
 </ModMetaData>
